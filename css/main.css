@@ -17,7 +17,7 @@ a {
 	color: #999;
 }
 a:hover {
-	text-decoration: italic;
+	text-decoration: underline;
 }
 h1 {
 	font-size: 3em;
@@ -25,10 +25,12 @@ h1 {
 }
 p {
 	font-size: 1.5em;
+	font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 	line-height: 1.4em;
 	color: #333;
 }
 footer {
+	padding: 10px;
 	border-top: 1px solid #d5d5d5;
 	font-size: .8em;
 }
