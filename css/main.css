@@ -1,6 +1,6 @@
 body {
 	margin: 30px auto;
-	width: 30%;
+	width: 50%;
 }
 nav ul, footer ul {
 	font-family: 'Helvetica', 'Arial', 'Sans-Serif';
@@ -30,9 +30,8 @@ p {
 	color: #333;
 }
 footer {
-	padding: 10px;
 	border-top: 1px solid #d5d5d5;
-	font-size: .8em;
+	font-size: .5em;
 }
 
 ul.posts li {
